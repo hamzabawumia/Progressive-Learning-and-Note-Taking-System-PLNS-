@@ -1,0 +1,4 @@
+# Best Practices
+
+- Rule 1
+- Rule 2
